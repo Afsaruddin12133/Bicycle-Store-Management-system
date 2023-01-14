@@ -27,7 +27,7 @@
 
 
 
-// function lists..
+// All function lists..
 void welcome_page();
 
 int main()
